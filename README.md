@@ -17,3 +17,11 @@
 <a href="https://radikmikhov.github.io/myWorks/Elements/Other/Hoverboard/index.html" target="_blank">Hoverboard</a><br>
 <a href="https://radikmikhov.github.io/myWorks/Elements/Parallax/index.html" target="_blank">Parallax</a><br>
 <a href="https://radikmikhov.github.io/myWorks/Elements/PasswordGenerator/index.html" target="_blank">PasswordGenerator</a><br>
+<a href="https://radikmikhov.github.io/myWorks/Elements/Slider/BackgroundSlider/index.html" target="_blank">BackgroundSlider</a><br>
+<a href="https://radikmikhov.github.io/myWorks/Elements/Slider/DoubleVerticalSlider/index.html" target="_blank">DoubleVerticalSlider</a><br>
+<a href="https://radikmikhov.github.io/myWorks/Elements/Slider/SWIPER/index.html" target="_blank">SliderSwiper</a><br>
+<a href="https://radikmikhov.github.io/myWorks/Elements/Text/AutoTextEffect/index.html" target="_blank">AutoTextEffect</a><br>
+<a href="https://radikmikhov.github.io/myWorks/Elements/Widgets/ExchangeRateCalculator/index.html" target="_blank">ExchangeRateCalculator</a><br>
+<a href="https://radikmikhov.github.io/myWorks/Elements/Widgets/NotesApp/index.html" target="_blank">NotesApp</a><br>
+<a href="https://radikmikhov.github.io/myWorks/Elements/Widgets/ThemeClock/index.html" target="_blank">ThemeClock</a><br>
+<a href="https://radikmikhov.github.io/myWorks/Elements/Widgets/Weather/index.html" target="_blank">Weather</a><br>
