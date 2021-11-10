@@ -13,7 +13,7 @@
 <a href="https://radikmikhov.github.io/myWorks/Elements/Download/Kinetic Loader/index.html" target="_blank">Kinetic Loader</a><br>
 <a href="https://radikmikhov.github.io/myWorks/Elements/Form/Logins/index.html" target="_blank">Logins</a><br>
 <a href="https://radikmikhov.github.io/myWorks/Elements/Form/Registration/Validator/index.html" target="_blank">Registrator</a><br>
-<a href="https://radikmikhov.github.io/myWorks/Elements/Menu/NetflixMobileNavigation/index.html" target="_blank">Registrator</a><br>
-<a href="https://radikmikhov.github.io/myWorks/Elements/Other/Hoverboard/index.html" target="_blank">Registrator</a><br>
-<a href="https://radikmikhov.github.io/myWorks/Elements/Parallax/index.html" target="_blank">Registrator</a><br>
-<a href="https://radikmikhov.github.io/myWorks/Elements/PasswordGenerator/index.html" target="_blank">Registrator</a><br>
+<a href="https://radikmikhov.github.io/myWorks/Elements/Menu/NetflixMobileNavigation/index.html" target="_blank">NetflixMobileNavigation</a><br>
+<a href="https://radikmikhov.github.io/myWorks/Elements/Other/Hoverboard/index.html" target="_blank">Hoverboard</a><br>
+<a href="https://radikmikhov.github.io/myWorks/Elements/Parallax/index.html" target="_blank">Parallax</a><br>
+<a href="https://radikmikhov.github.io/myWorks/Elements/PasswordGenerator/index.html" target="_blank">PasswordGenerator</a><br>
