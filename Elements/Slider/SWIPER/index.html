@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="css/style.css">
+    <title>SWIPER</title>
+</head>
+<body>
+    <div class="wrapper">
+        <h1 class="title">Slider swiper</h1>
+        <!-- для арабских стран нужно прописать dir="rtl" -->
+        <div class="image-slider swiper-container">
+            <!-- Хеш навигация -->
+            <div class="image-slider__wraper swiper-wrapper">
+                <div data-hash="slide-1" class="image-slider__slide swiper-slide">
+                    <div class="image-slider__image">
+                        <img src="img/fordGT1.jpg" alt="Ford GT">
+                    </div>
+                </div>
+                <div data-hash="slide-2" class="image-slider__slide swiper-slide">
+                    <div class="image-slider__image">
+                        <img src="img/fordGT2.jpg" alt="Ford GT">
+                    </div>
+                </div>
+                <div data-hash="slide-3" class="image-slider__slide swiper-slide">
+                    <div class="image-slider__image">
+                        <img src="img/nissanGTR1.jpg" alt="Nissan GTR">
+                    </div>
+                </div>
+                <div data-hash="slide-4" class="image-slider__slide swiper-slide">
+                    <div class="image-slider__image">
+                        <img src="img/nissanGTR2.jpg" alt="Nissan GTR">
+                    </div>
+                </div>
+                <div data-hash="slide-5" class="image-slider__slide swiper-slide">
+                    <div class="image-slider__image">
+                        <img src="img/nissanGTR3.jpg" alt="Nissan GTR">
+                    </div>
+                </div>
+                <div data-hash="slide-6" class="image-slider__slide swiper-slide">
+                    <div class="image-slider__image">
+                        <img src="img/eleanor1.jpg" alt="Eleanor">
+                    </div>
+                </div>
+                <div data-hash="slide-7" class="image-slider__slide swiper-slide">
+                    <div class="image-slider__image">
+                        <img src="img/plymouth.jpg" alt="Plymouth">
+                    </div>
+                </div>
+            </div>
+
+             <!-- Добавляем стрелки  -->
+             <div class="swiper-button-prev"></div>
+             <div class="swiper-button-next"></div>
+ 
+             <!-- Добавляем пагинацию  -->
+             <div class="swiper-pagination"></div>
+ 
+             <!-- Добавляем полосу прокрутки скролл -->
+             <div class="swiper-scrollbar"></div>
+
+             
+        </div>   
+    </div>
+
+
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
